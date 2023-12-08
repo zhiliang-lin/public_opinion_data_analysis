@@ -18,7 +18,7 @@
 
 
 
-# 参考书籍：
+# 参考资料：
 
 - 《大数据分析与挖掘实用案例教程》（万欣）
 - [大数据分析与挖掘 课程](https://xue.51zhy.cn/p/t_pc/goods_pc_detail/goods_detail/p_6268ebb5e4b01c509aa90974?fromH5=true&entry_type=2002&type=3&share_type=5&share_user_id=anonymous_PI0ITWJPKFiU8ZzGJ&entry=2)
